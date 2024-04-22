@@ -1,0 +1,7 @@
+{
+    "user": "admin",
+    "password": "hodoo12!!",
+    "host": "haproxy.hodoolabs.com",
+    "port": "33307",
+    "database": "corpus_data"
+}
