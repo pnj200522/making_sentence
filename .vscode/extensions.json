@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "mhutchie.git-graph",
+        "ms-python.isort",
+        "ms-python.mypy-type-checker",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "atlassian.atlascode", // Jira 확장 추가
+        "github.copilot" // GitHub Copilot 확장 추가
+    ]
+}
