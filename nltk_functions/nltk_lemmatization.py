@@ -1,6 +1,7 @@
 import nltk
 from nltk.stem import WordNetLemmatizer
-from nltk.tag import pos_tag
+
+# from nltk.tag import pos_tag
 
 nltk.download("wordnet")
 nltk.download("tagsets")
