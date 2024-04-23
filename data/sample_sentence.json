@@ -1,0 +1,82 @@
+[
+    {
+        "sentenceId": 1,
+        "subject": "shopping",
+        "sampleSentence": "She always looks for discounts before buying anything.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 6
+    },
+    {
+        "sentenceId": 2,
+        "subject": "shopping",
+        "sampleSentence": "My brother prefers online shopping to visiting stores.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 2
+    },
+    {
+        "sentenceId": 3,
+        "subject": "shopping",
+        "sampleSentence": "This store offers free shipping on all orders over $50.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 3
+    },
+    {
+        "sentenceId": 4,
+        "subject": "shopping",
+        "sampleSentence": "Many consumers compare prices online before making purchases.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 3
+    },
+    {
+        "sentenceId": 5,
+        "subject": "shopping",
+        "sampleSentence": "I received a coupon for 20% off my next purchase.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 11
+    },
+    {
+        "sentenceId": 6,
+        "subject": "shopping",
+        "sampleSentence": "She filled her cart with groceries and headed to the checkout.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 8
+    },
+    {
+        "sentenceId": 7,
+        "subject": "shopping",
+        "sampleSentence": "The mall was crowded with holiday shoppers last weekend.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 10
+    },
+    {
+        "sentenceId": 8,
+        "subject": "shopping",
+        "sampleSentence": "He found a great deal on a new laptop during the sale.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 2
+    },
+    {
+        "sentenceId": 9,
+        "subject": "shopping",
+        "sampleSentence": "She returned the dress because it didn’t fit her well.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 2
+    },
+    {
+        "sentenceId": 10,
+        "subject": "shopping",
+        "sampleSentence": "They offer a wide variety of products, from books to electronics.",
+        "corpusLevel": null,
+        "fkLevel": null,
+        "corpus_level": 4
+    }
+]
